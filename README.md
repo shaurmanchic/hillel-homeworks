@@ -1,9 +1,5 @@
 # hillel-homeworks
 
-### Hello World
+## Hello World
 
-
-#### This is a git homework
-
-##### New Github Changes
-
+This is a dummy repo to show git capabilities.
